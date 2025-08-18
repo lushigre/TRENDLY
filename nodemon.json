@@ -1,0 +1,6 @@
+{
+  "watch": ["server", "shared"],
+  "ext": ".ts,.js",
+  "ignore": [],
+  "exec": "ts-node --esm ./server/index.ts"
+}
